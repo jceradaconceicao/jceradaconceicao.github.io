@@ -7,11 +7,11 @@
   }
 
   .header_section {
-    padding-top: 10px;
+    padding-top: 10px !important;
   }
 
   #navbarSupportedContent {
-    margin-top: 25px;
+    margin-top: 25px !important;
   }
 
   .slider_section {
