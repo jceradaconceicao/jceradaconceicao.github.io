@@ -3,7 +3,7 @@
 @media (max-width: 992px) {
 
   .hero_area {
-    height: auto;
+    height: auto !important;
   }
 
   .header_section {
