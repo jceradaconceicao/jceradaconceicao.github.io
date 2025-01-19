@@ -244,26 +244,32 @@ a:focus {
   color: #000000;
 }
 
-.slider_section .detail_box h1 {
+
+.slider_section .detail_box h5 {
   text-transform: uppercase;
   font-weight: bold;
+  font-size: 1.35em;
+  padding-left: 5pt;
+  background-color:#f1eef8;
 }
+
 
 .slider_section .detail_box p {
   word-wrap: break-word;
-  font-size:x-large;
-  text-align: justify;
-  /* margin-top: 5px; 
-  margin: 15px; */
+  font-size: 1.4em;
+  text-align: left;
+  margin-top: 15px; 
 }
-
 
 
 .slider_section .detail_box li {
-  font-size:x-large;
-  text-align: justify;
-  margin-top: 5px;
+  font-size: 1.4em;
+  text-align: left;
+  margin-top: 15px;
+  list-style-type: square;
 }
+
+
 
 /* Jsp */
 
